@@ -71,7 +71,7 @@ https://area-price-prediction-dc8oq3q9883gou523pftxj.streamlit.app/
 Clone the repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/DheydeepyaKCN/Area-Price-Prediction
 ```
 
 Install dependencies
