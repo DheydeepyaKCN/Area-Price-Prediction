@@ -60,6 +60,11 @@ Area-Price-Prediction/
 7. Deploy the model using Streamlit
 
 ---
+## Live Demo
+
+https://area-price-prediction-dc8oq3q9883gou523pftxj.streamlit.app/
+
+---
 
 ## ▶️ Run Locally
 
@@ -75,12 +80,17 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
-Run the application
+Run the following command in the project directory:
 
 ```bash
 streamlit run app.py
 ```
 
+If the above command doesn't work, use:
+
+```bash
+py -m streamlit run app.py
+```
 ---
 
 ## 📈 Future Improvements
